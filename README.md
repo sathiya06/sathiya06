@@ -8,9 +8,9 @@
  
  🔭 I’m currently working on **a web app**
  
- 🌱 I’m currently learning **Fast API, Streamlit, Web scrapers**
+ 🌱 I’m currently learning **Langchain, Kubernetes, Velero**
 
- 💬 Ask me about **Java, React, Firebase, SQL... or anything [here](https://github.com/sathiya06/sathiya06/issues)**
+ 💬 Ask me about **Java, React, SQL... or anything [here](https://github.com/sathiya06/sathiya06/issues)**
 
  ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
  
